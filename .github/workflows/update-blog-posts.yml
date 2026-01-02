@@ -1,0 +1,25 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    - cron: '0 4 * * *'          # Runs every day at 4:00 UTC (~9:30 AM IST)
+  workflow_dispatch:             # Allows manual trigger from Actions tab
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4   # v4 is current stable
+
+      - name: Update README with blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: "5"                 # Show latest 5 posts (adjust as you like)
+          feed_list: "https://vivekmolkar.com/feed.xml"
+          date_format: "MMM d, yyyy"          # Nice readable date format
+          commit_message: "chore: update latest blog posts"
+          committer_username: "blog-bot"
+          committer_email: "actions@github.com"
+          comment_tag_name: "BLOG-POSTS"      # Unique tag for this section
+          template: "$newline- [$title]($url) · $date$newline"  # Simple bullet list
