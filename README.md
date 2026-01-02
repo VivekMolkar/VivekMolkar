@@ -18,15 +18,15 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
-- [Single Point of Failure &lpar;How One Small Thing Can Bring Everything Down&rpar;](https://vivekmolkar.com/posts/single-point-of-failure/) · 3030 2, 2026
+- [Single Point of Failure &lpar;How One Small Thing Can Bring Everything Down&rpar;](https://vivekmolkar.com/posts/single-point-of-failure/) · Fri Jan 02 2026 3:30 AM
 
-- [Horizontal vs Vertical Scaling &lpar;Growing Out vs Growing Up&rpar;](https://vivekmolkar.com/posts/horizontal-vs-vertical-scaling/) · 3030 1, 2026
+- [Horizontal vs Vertical Scaling &lpar;Growing Out vs Growing Up&rpar;](https://vivekmolkar.com/posts/horizontal-vs-vertical-scaling/) · Thu Jan 01 2026 10:30 AM
 
-- [Scalability vs Performance &lpar;Why Faster Isn’t Always Bigger&rpar;](https://vivekmolkar.com/posts/scalability-vs-performance/) · 3030 31, 2025
+- [Scalability vs Performance &lpar;Why Faster Isn’t Always Bigger&rpar;](https://vivekmolkar.com/posts/scalability-vs-performance/) · Wed Dec 31 2025 10:30 AM
 
-- [Latency vs Throughput &lpar;Why Fast Systems Still Feel Slow&rpar;](https://vivekmolkar.com/posts/latency-vs-throughput/) · 3030 30, 2025
+- [Latency vs Throughput &lpar;Why Fast Systems Still Feel Slow&rpar;](https://vivekmolkar.com/posts/latency-vs-throughput/) · Tue Dec 30 2025 4:30 AM
 
-- [What Is System Design? &lpar;First Principles&rpar;](https://vivekmolkar.com/posts/what-is-system-design-first-principles/) · 3030 29, 2025
+- [What Is System Design? &lpar;First Principles&rpar;](https://vivekmolkar.com/posts/what-is-system-design-first-principles/) · Mon Dec 29 2025 10:30 AM
 <!-- BLOG-POSTS:END -->
 
 ### 💻 Skills & Tools
