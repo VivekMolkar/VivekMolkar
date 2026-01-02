@@ -1,47 +1,39 @@
 <h1 align="center">Hi 👋, I'm Vivek Molkar</h1>
 
 <p align="center">
-  Backend Engineer • Node.js & JavaScript • Writing practical tutorials
+  Backend Engineer • Node.js • JavaScript • System Design  
+  Writing practical tutorials about real-world development challenges
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://vivekmolkar.com">🌐 Blog</a> •
-  <a href="https://linkedin.com/in/vivekmolkar">LinkedIn</a> •
-  <a href="https://twitter.com/vivekmolkar">X</a>
-</div>
+  <a href="https://www.linkedin.com/in/vivekmolkar/">LinkedIn</a> •
+  <a href="https://twitter.com/vivekmolkar">X (Twitter)</a>
+</p>
+
+### About Me
+I'm passionate about building scalable, performant backend systems and sharing what actually works in production.  
+My blog focuses on Node.js, JavaScript best practices, system design fundamentals, and lessons from real-world development.
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
-
-- [Single Point of Failure &lpar;How One Small Thing Can Bring Everything Down&rpar;](https://vivekmolkar.com/posts/single-point-of-failure/)  
-  **Fri Jan 02 2026 3:30 AM** · &lt;div type=&quot;text/html&quot; src=&quot;https://vivekmolkar.com/posts/single-point-of-failure/&quot;/&gt;
-
-
-- [Horizontal vs Vertical Scaling &lpar;Growing Out vs Growing Up&rpar;](https://vivekmolkar.com/posts/horizontal-vs-vertical-scaling/)  
-  **Thu Jan 01 2026 10:30 AM** · &lt;div type=&quot;text/html&quot; src=&quot;https://vivekmolkar.com/posts/horizontal-vs-vertical-scaling/&quot;/&gt;
-
-
-- [Scalability vs Performance &lpar;Why Faster Isn’t Always Bigger&rpar;](https://vivekmolkar.com/posts/scalability-vs-performance/)  
-  **Wed Dec 31 2025 10:30 AM** · &lt;div type=&quot;text/html&quot; src=&quot;https://vivekmolkar.com/posts/scalability-vs-performance/&quot;/&gt;
-
-
-- [Latency vs Throughput &lpar;Why Fast Systems Still Feel Slow&rpar;](https://vivekmolkar.com/posts/latency-vs-throughput/)  
-  **Tue Dec 30 2025 4:30 AM** · &lt;div type=&quot;text/html&quot; src=&quot;https://vivekmolkar.com/posts/latency-vs-throughput/&quot;/&gt;
-
-
-- [What Is System Design? &lpar;First Principles&rpar;](https://vivekmolkar.com/posts/what-is-system-design-first-principles/)  
-  **Mon Dec 29 2025 10:30 AM** · &lt;div type=&quot;text/html&quot; src=&quot;https://vivekmolkar.com/posts/what-is-system-design-first-principles/&quot;/&gt;
 <!-- BLOG-POSTS:END -->
 
 [View all posts →](https://vivekmolkar.com)
 
-### 📊 GitHub Activity
+### 🛠️ Skills & Technologies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekMolkar&show_icons=true&theme=dracula" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMolkar&layout=compact&theme=dracula" width="38%"/>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-### 🛠️ Tech Stack
+### 🌱 Currently Exploring
+- Modern Node.js patterns & performance optimization  
+- System design & scalable architectures  
+- Writing cleaner, more maintainable code
 
-<!-- badges here -->
+Feel free to connect or check out my latest posts! 🚀
