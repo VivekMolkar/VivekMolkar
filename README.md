@@ -17,7 +17,6 @@
 - Building small, useful code demos
 
 ### 📝 Latest Blog Posts
-## Latest from my Blog
 <!-- BLOG-POSTS:START -->
 - [Single Point of Failure &lpar;How One Small Thing Can Bring Everything Down&rpar;](https://vivekmolkar.com/posts/single-point-of-failure/) · 3030 2, 2026
 
