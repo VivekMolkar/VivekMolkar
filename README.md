@@ -17,10 +17,9 @@
 - Building small, useful code demos
 
 ### 📝 Latest Blog Posts
-<!-- AUTO_UPDATE with GitHub Action later -->
-- [Single Point of Failure Explained](https://vivekmolkar.com/posts/single-point-of-failure) (Jan 2026)
-- [Horizontal vs Vertical Scaling](https://vivekmolkar.com/posts/horizontal-vs-vertical-scaling)
-- [JavaScript Destructuring Tips](https://vivekmolkar.com/posts/javascript-destructuring-assignment-tips-best-practices/)
+## Latest from my Blog
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
 
 ### 💻 Skills & Tools
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />  
