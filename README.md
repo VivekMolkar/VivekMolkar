@@ -1,30 +1,30 @@
-# Hi there! 👋 I'm Vivek Molkar  
-Welcome to my GitHub space! 🚀 I’m a passionate developer, problem solver, and lifelong learner constantly striving to grow in software engineering and beyond.  
+<h1 align="center">Hi 👋, I'm Vivek Molkar</h1>
 
----
-
-## 📊 GitHub Stats  
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekMolkar&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMolkar&layout=compact&theme=tokyonight)  
-
----
-
-## 🚀 What I'm Up To  
-✨ Focused on bettering myself as a software engineer.  
-📖 Exploring topics relevant to modern development and engineering excellence.  
-
----
-
-## 🌐 Let's Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivekmolkar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/vivekmolkar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)"></a>
-  <a href="https://github.com/VivekMolkar"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>  
-
----
-
-## 👀 Profile Insights  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VivekMolkar&style=for-the-badge&color=brightgreen" alt="Profile Views">
+  <a href="https://vivekmolkar.com">Personal Blog</a> •
+  <a href="https://www.linkedin.com/in/vivekmolkar/">LinkedIn</a> •
+  <a href="https://twitter.com/vivekmolkar">X</a>
 </p>
+
+<p align="center">
+  Backend Engineer passionate about Node.js, JavaScript, scalable systems & writing clean code.<br>
+  Sharing practical tutorials on <a href="https://vivekmolkar.com">vivekmolkar.com</a> — from rate limiting pitfalls to system design fundamentals.
+</p>
+
+### 🛠️ What I'm working on
+- Exploring modern Node.js patterns & performance
+- Writing about real-world backend challenges
+- Building small, useful code demos
+
+### 📝 Latest Blog Posts
+<!-- AUTO_UPDATE with GitHub Action later -->
+- [Single Point of Failure Explained](https://vivekmolkar.com/posts/single-point-of-failure) (Jan 2026)
+- [Horizontal vs Vertical Scaling](https://vivekmolkar.com/posts/horizontal-vs-vertical-scaling)
+- [JavaScript Destructuring Tips](https://vivekmolkar.com/posts/javascript-destructuring-assignment-tips-best-practices/)
+
+### 💻 Skills & Tools
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />  
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+
+Feel free to connect or check out my code demos!
