@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://vivekmolkar.com">🌐 Blog</a> •
   <a href="https://linkedin.com/in/vivekmolkar">LinkedIn</a> •
-  <a href="https://twitter.com/yourhandle">X</a>
+  <a href="https://twitter.com/vivekmolkar">X</a>
 </div>
 
 ### 📝 Latest Blog Posts
@@ -38,8 +38,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekMOlkar&show_icons=true&theme=dracula" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMOlkar&layout=compact&theme=dracula" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekMolkar&show_icons=true&theme=dracula" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMolkar&layout=compact&theme=dracula" width="38%"/>
 </div>
 
 ### 🛠️ Tech Stack
