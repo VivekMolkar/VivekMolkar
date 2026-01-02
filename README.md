@@ -1,37 +1,28 @@
 <h1 align="center">Hi 👋, I'm Vivek Molkar</h1>
 
 <p align="center">
-  <a href="https://vivekmolkar.com">Personal Blog</a> •
-  <a href="https://www.linkedin.com/in/vivekmolkar/">LinkedIn</a> •
-  <a href="https://twitter.com/vivekmolkar">X</a>
+  Backend Engineer • Node.js & JavaScript • Writing practical tutorials
 </p>
 
-<p align="center">
-  Backend Engineer passionate about Node.js, JavaScript, scalable systems & writing clean code.<br>
-  Sharing practical tutorials on <a href="https://vivekmolkar.com">vivekmolkar.com</a> — from rate limiting pitfalls to system design fundamentals.
-</p>
-
-### 🛠️ What I'm working on
-- Exploring modern Node.js patterns & performance
-- Writing about real-world backend challenges
-- Building small, useful code demos
+<div align="center">
+  <a href="https://vivekmolkar.com">🌐 Blog</a> •
+  <a href="https://linkedin.com/in/vivekmolkar">LinkedIn</a> •
+  <a href="https://twitter.com/yourhandle">X</a>
+</div>
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
-- [Single Point of Failure &lpar;How One Small Thing Can Bring Everything Down&rpar;](https://vivekmolkar.com/posts/single-point-of-failure/) · Fri Jan 02 2026 3:30 AM
-
-- [Horizontal vs Vertical Scaling &lpar;Growing Out vs Growing Up&rpar;](https://vivekmolkar.com/posts/horizontal-vs-vertical-scaling/) · Thu Jan 01 2026 10:30 AM
-
-- [Scalability vs Performance &lpar;Why Faster Isn’t Always Bigger&rpar;](https://vivekmolkar.com/posts/scalability-vs-performance/) · Wed Dec 31 2025 10:30 AM
-
-- [Latency vs Throughput &lpar;Why Fast Systems Still Feel Slow&rpar;](https://vivekmolkar.com/posts/latency-vs-throughput/) · Tue Dec 30 2025 4:30 AM
-
-- [What Is System Design? &lpar;First Principles&rpar;](https://vivekmolkar.com/posts/what-is-system-design-first-principles/) · Mon Dec 29 2025 10:30 AM
 <!-- BLOG-POSTS:END -->
 
-### 💻 Skills & Tools
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />  
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+[View all posts →](https://vivekmolkar.com)
 
-Feel free to connect or check out my code demos!
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekMOlkar&show_icons=true&theme=dracula" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMOlkar&layout=compact&theme=dracula" width="38%"/>
+</div>
+
+### 🛠️ Tech Stack
+
+<!-- badges here -->
