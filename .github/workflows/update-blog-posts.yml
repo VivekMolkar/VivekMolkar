@@ -22,4 +22,4 @@ jobs:
           committer_username: "blog-bot"
           committer_email: "actions@github.com"
           comment_tag_name: "BLOG-POSTS"
-          template: "- [$title]($url) — $date$newline"
+          template: "$newline- [$title]($url) — $date"
