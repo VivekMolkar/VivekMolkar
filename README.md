@@ -17,11 +17,11 @@ My blog focuses on Node.js, JavaScript best practices, system design fundamental
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
-- [Stateless vs Stateful Systems &lpar;Why Memory Changes Everything&rpar;](https://vivekmolkar.com/posts/stateless-vs-stateful-refined/)
-- [Single Point of Failure &lpar;How One Small Thing Can Bring Everything Down&rpar;](https://vivekmolkar.com/posts/single-point-of-failure/)
-- [Horizontal vs Vertical Scaling &lpar;Growing Out vs Growing Up&rpar;](https://vivekmolkar.com/posts/horizontal-vs-vertical-scaling/)
-- [Scalability vs Performance &lpar;Why Faster Isn’t Always Bigger&rpar;](https://vivekmolkar.com/posts/scalability-vs-performance/)
-- [Latency vs Throughput &lpar;Why Fast Systems Still Feel Slow&rpar;](https://vivekmolkar.com/posts/latency-vs-throughput/)<!-- BLOG-POSTS:END -->
+- [Load Balancing &lpar;How the System Decides Who Handles Your Request&rpar;](https://vivekmolkar.com/posts/load-balancing/)
+- [System Design Foundations — How the Pieces Fit Together](https://vivekmolkar.com/posts/system-design-foundations-summary/)
+- [Client–Server Model &lpar;Who Does What, Really?&rpar;](https://vivekmolkar.com/posts/client-server-model/)
+- [Stateless vs Stateful Systems &lpar;Why Memory Changes Everything&rpar;](https://vivekmolkar.com/posts/stateless-vs-stateful/)
+- [Single Point of Failure &lpar;How One Small Thing Can Bring Everything Down&rpar;](https://vivekmolkar.com/posts/single-point-of-failure/)<!-- BLOG-POSTS:END -->
 
 [View all posts →](https://vivekmolkar.com)
 
