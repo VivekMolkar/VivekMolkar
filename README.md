@@ -17,11 +17,11 @@ My blog focuses on Node.js, JavaScript best practices, system design fundamental
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
+- [Why I Built a Tool That Refuses to Auto-Post](https://vivekmolkar.com/posts/why-i-built-a-tool-that-refuses-to-auto-post.md/)
 - [Load Balancing &lpar;How the System Decides Who Handles Your Request&rpar;](https://vivekmolkar.com/posts/load-balancing/)
 - [System Design Foundations — How the Pieces Fit Together](https://vivekmolkar.com/posts/system-design-foundations-summary/)
 - [Client–Server Model &lpar;Who Does What, Really?&rpar;](https://vivekmolkar.com/posts/client-server-model/)
-- [Stateless vs Stateful Systems &lpar;Why Memory Changes Everything&rpar;](https://vivekmolkar.com/posts/stateless-vs-stateful/)
-- [Single Point of Failure &lpar;How One Small Thing Can Bring Everything Down&rpar;](https://vivekmolkar.com/posts/single-point-of-failure/)<!-- BLOG-POSTS:END -->
+- [Stateless vs Stateful Systems &lpar;Why Memory Changes Everything&rpar;](https://vivekmolkar.com/posts/stateless-vs-stateful/)<!-- BLOG-POSTS:END -->
 
 [View all posts →](https://vivekmolkar.com)
 
