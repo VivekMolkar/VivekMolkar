@@ -17,11 +17,11 @@ My blog focuses on Node.js, JavaScript best practices, system design fundamental
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
+- [Caching &lpar;Why Some Requests Never Reach Your Servers at All&rpar;](https://vivekmolkar.com/posts/caching/)
 - [Reverse Proxy &lpar;The Silent Middle Layer Most Systems Rely On&rpar;](https://vivekmolkar.com/posts/reverse-proxy/)
 - [Why I Built a Tool That Refuses to Auto-Post](https://vivekmolkar.com/posts/why-i-built-a-tool-that-refuses-to-auto-post/)
 - [Load Balancing &lpar;How the System Decides Who Handles Your Request&rpar;](https://vivekmolkar.com/posts/load-balancing/)
-- [System Design Foundations — How the Pieces Fit Together](https://vivekmolkar.com/posts/system-design-foundations-summary/)
-- [Client–Server Model &lpar;Who Does What, Really?&rpar;](https://vivekmolkar.com/posts/client-server-model/)<!-- BLOG-POSTS:END -->
+- [System Design Foundations — How the Pieces Fit Together](https://vivekmolkar.com/posts/system-design-foundations-summary/)<!-- BLOG-POSTS:END -->
 
 [View all posts →](https://vivekmolkar.com)
 
