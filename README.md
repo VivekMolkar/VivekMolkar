@@ -17,11 +17,11 @@ My blog focuses on Node.js, JavaScript best practices, system design fundamental
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
+- [Databases vs Caches &lpar;Why Some Systems Decide — and Others Just Remember&rpar;](https://vivekmolkar.com/posts/databases-vs-caches/)
 - [CDN &lpar;How Caching Goes Global — and Why Geography Matters&rpar;](https://vivekmolkar.com/posts/cdn/)
 - [Consistency Models &lpar;Why Different Users See Different Truths - and Why That’s Sometimes Okay&rpar;](https://vivekmolkar.com/posts/consistency-models/)
 - [Cache Invalidation &lpar;Why Making Things Fast Is Easy — Keeping It Correct Is Hard&rpar;](https://vivekmolkar.com/posts/cache-invalidation/)
-- [Caching &lpar;Why Some Requests Never Reach Your Servers at All&rpar;](https://vivekmolkar.com/posts/caching/)
-- [Reverse Proxy &lpar;The Silent Middle Layer Most Systems Rely On&rpar;](https://vivekmolkar.com/posts/reverse-proxy/)<!-- BLOG-POSTS:END -->
+- [Caching &lpar;Why Some Requests Never Reach Your Servers at All&rpar;](https://vivekmolkar.com/posts/caching/)<!-- BLOG-POSTS:END -->
 
 [View all posts →](https://vivekmolkar.com)
 
