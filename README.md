@@ -17,11 +17,11 @@ My blog focuses on Node.js, JavaScript best practices, system design fundamental
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
+- [Graceful Degradation &lpar;Designing Useful Failure Instead of Total Collapse&rpar;](https://vivekmolkar.com/posts/graceful-degradation/)
+- [Circuit Breakers &lpar;Stopping Cascading Failure Before It Spreads&rpar;](https://vivekmolkar.com/posts/circuit-breakers/)
 - [Timeouts, Retries, and Backpressure &lpar;Why Slow Failures Are More Dangerous Than Crashes&rpar;](https://vivekmolkar.com/posts/timeouts-retries-backpressure/)
 - [Sharding &lpar;How Systems Split Data — and Why It’s Harder Than It Looks&rpar;](https://vivekmolkar.com/posts/sharding/)
-- [Replication &lpar;Why Copying Data Improves Resilience — and Introduces Disagreement&rpar;](https://vivekmolkar.com/posts/replication/)
-- [Read-Heavy vs Write-Heavy Systems &lpar;Why Optimizing One Often Hurts the Other&rpar;](https://vivekmolkar.com/posts/read-heavy-vs-write-heavy-systems/)
-- [Databases vs Caches &lpar;Why Some Systems Decide — and Others Just Remember&rpar;](https://vivekmolkar.com/posts/databases-vs-caches/)<!-- BLOG-POSTS:END -->
+- [Replication &lpar;Why Copying Data Improves Resilience — and Introduces Disagreement&rpar;](https://vivekmolkar.com/posts/replication/)<!-- BLOG-POSTS:END -->
 
 [View all posts →](https://vivekmolkar.com)
 
