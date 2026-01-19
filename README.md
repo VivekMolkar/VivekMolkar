@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vivek Molkar</h1>
+# Hi 👋, I'm Vivek Molkar
 
-<p align="center">
-  Backend Engineer • Node.js • JavaScript • System Design  
-  Writing practical tutorials about real-world development challenges
-</p>
+**Backend Engineer** • **Node.js** • **JavaScript** • **System Design**  
+Writing practical tutorials about real-world development challenges
 
-<p align="center">
+<p>
   <a href="https://vivekmolkar.com">🌐 Blog</a> •
   <a href="https://www.linkedin.com/in/vivekmolkar/">LinkedIn</a> •
   <a href="https://twitter.com/vivekmolkar">X (Twitter)</a>
@@ -14,6 +12,8 @@
 ### About Me
 I'm passionate about building scalable, performant backend systems and sharing what actually works in production.  
 My blog focuses on Node.js, JavaScript best practices, system design fundamentals, and lessons from real-world development.
+
+[![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekmolkar&show_icons=true)](https://github.com/vivekmolkar)
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
@@ -25,6 +25,14 @@ My blog focuses on Node.js, JavaScript best practices, system design fundamental
 
 [View all posts →](https://vivekmolkar.com)
 
+### 🛠️ Side Projects
+
+- **[Threadsmith](https://github.com/vivekmolkar/threadsmith)**  
+  A CLI + web tool for crafting and publishing threads with a human-in-the-loop guided workflow. Built as a fun experiment in threading tools and real-time editing.  
+  Live demo: [vivekmolkar.com/threadsmith](https://vivekmolkar.com/threadsmith)
+
+  [![Threadsmith Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekmolkar&repo=threadsmith&show_owner=true&description_lines_count=2)](https://github.com/vivekmolkar/threadsmith)
+  
 ### 🛠️ Skills & Technologies
 
 <p align="left">
