@@ -17,11 +17,11 @@ My blog focuses on Node.js, JavaScript best practices, system design fundamental
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
+- [API Design &lpar;Contracts Over Code&rpar;](https://vivekmolkar.com/posts/api-design-contracts-over-code/)
+- [Monolith vs Microservices &lpar;Why This Question Usually Shows Up at the Wrong Time&rpar;](https://vivekmolkar.com/posts/monolith-vs-microservices/)
 - [Graceful Degradation &lpar;Designing Useful Failure Instead of Total Collapse&rpar;](https://vivekmolkar.com/posts/graceful-degradation/)
 - [Circuit Breakers &lpar;Stopping Cascading Failure Before It Spreads&rpar;](https://vivekmolkar.com/posts/circuit-breakers/)
-- [Timeouts, Retries, and Backpressure &lpar;Why Slow Failures Are More Dangerous Than Crashes&rpar;](https://vivekmolkar.com/posts/timeouts-retries-backpressure/)
-- [Sharding &lpar;How Systems Split Data — and Why It’s Harder Than It Looks&rpar;](https://vivekmolkar.com/posts/sharding/)
-- [Replication &lpar;Why Copying Data Improves Resilience — and Introduces Disagreement&rpar;](https://vivekmolkar.com/posts/replication/)<!-- BLOG-POSTS:END -->
+- [Timeouts, Retries, and Backpressure &lpar;Why Slow Failures Are More Dangerous Than Crashes&rpar;](https://vivekmolkar.com/posts/timeouts-retries-backpressure/)<!-- BLOG-POSTS:END -->
 
 [View all posts →](https://vivekmolkar.com)
 
