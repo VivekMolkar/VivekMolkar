@@ -17,11 +17,11 @@ My blog focuses on Node.js, JavaScript best practices, system design fundamental
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
+- [Event-Driven Architecture &lpar;When Time Matters&rpar;](https://vivekmolkar.com/posts/event-driven-architecture-when-time-matters/)
 - [Synchronous vs Asynchronous Systems &lpar;Why Waiting Is a Design Choice&rpar;](https://vivekmolkar.com/posts/synchronous-vs-asynchronous-systems/)
 - [API Design &lpar;Contracts Over Code&rpar;](https://vivekmolkar.com/posts/api-design-contracts-over-code/)
 - [Monolith vs Microservices &lpar;Why This Question Usually Shows Up at the Wrong Time&rpar;](https://vivekmolkar.com/posts/monolith-vs-microservices/)
-- [Graceful Degradation &lpar;Designing Useful Failure Instead of Total Collapse&rpar;](https://vivekmolkar.com/posts/graceful-degradation/)
-- [Circuit Breakers &lpar;Stopping Cascading Failure Before It Spreads&rpar;](https://vivekmolkar.com/posts/circuit-breakers/)<!-- BLOG-POSTS:END -->
+- [Graceful Degradation &lpar;Designing Useful Failure Instead of Total Collapse&rpar;](https://vivekmolkar.com/posts/graceful-degradation/)<!-- BLOG-POSTS:END -->
 
 [View all posts →](https://vivekmolkar.com)
 
