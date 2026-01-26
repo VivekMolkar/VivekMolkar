@@ -17,11 +17,11 @@ My blog focuses on Node.js, JavaScript best practices, system design fundamental
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
+- [Designing for Change &lpar;Why Systems Fail Months Later&rpar;](https://vivekmolkar.com/posts/designing-for-change/)
 - [Observability &lpar;Knowing What Is Actually Happening&rpar;](https://vivekmolkar.com/posts/observability/)
 - [Rate Limiting &lpar;Fairness Under Abuse&rpar;](https://vivekmolkar.com/posts/rate-limiting-fairness-under-abuse/)
 - [Authentication vs Authorization &lpar;Trust Comes Before Permission&rpar;](https://vivekmolkar.com/posts/authentication-vs-authorization/)
-- [Event-Driven Architecture &lpar;When Time Matters&rpar;](https://vivekmolkar.com/posts/event-driven-architecture-when-time-matters/)
-- [Synchronous vs Asynchronous Systems &lpar;Why Waiting Is a Design Choice&rpar;](https://vivekmolkar.com/posts/synchronous-vs-asynchronous-systems/)<!-- BLOG-POSTS:END -->
+- [Event-Driven Architecture &lpar;When Time Matters&rpar;](https://vivekmolkar.com/posts/event-driven-architecture-when-time-matters/)<!-- BLOG-POSTS:END -->
 
 [View all posts →](https://vivekmolkar.com)
 
