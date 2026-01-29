@@ -17,11 +17,11 @@ My blog focuses on Node.js, JavaScript best practices, system design fundamental
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
+- [Case Study: Designing a URL Shortener](https://vivekmolkar.com/posts/case-study-url-shortener/)
 - [System Design Is a Way of Thinking](https://vivekmolkar.com/posts/system-design-is-a-way-of-thinking/)
 - [A System Design Walkthrough &lpar;Putting It All Together&rpar;](https://vivekmolkar.com/posts/system-design-walkthrough/)
 - [Designing for Change &lpar;Why Systems Fail Months Later&rpar;](https://vivekmolkar.com/posts/designing-for-change/)
-- [Observability &lpar;Knowing What Is Actually Happening&rpar;](https://vivekmolkar.com/posts/observability/)
-- [Rate Limiting &lpar;Fairness Under Abuse&rpar;](https://vivekmolkar.com/posts/rate-limiting-fairness-under-abuse/)<!-- BLOG-POSTS:END -->
+- [Observability &lpar;Knowing What Is Actually Happening&rpar;](https://vivekmolkar.com/posts/observability/)<!-- BLOG-POSTS:END -->
 
 [View all posts →](https://vivekmolkar.com)
 
