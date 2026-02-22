@@ -13,8 +13,6 @@ Writing practical tutorials about real-world development challenges
 I'm passionate about building scalable, performant backend systems and sharing what actually works in production.  
 My blog focuses on Node.js, JavaScript best practices, system design fundamentals, and lessons from real-world development.
 
-[![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekmolkar&show_icons=true)](https://github.com/vivekmolkar)
-
 ### 📝 Latest Blog Posts
 <!-- BLOG-POSTS:START -->
 - [Case Study: Designing a Real-Time Chat System](https://vivekmolkar.com/posts/case-study-real-time-chat/)
@@ -30,8 +28,6 @@ My blog focuses on Node.js, JavaScript best practices, system design fundamental
 - **[Threadsmith](https://github.com/vivekmolkar/threadsmith)**  
   A CLI + web tool for crafting and publishing threads with a human-in-the-loop guided workflow. Built as a fun experiment in threading tools and real-time editing.  
   Live demo: [vivekmolkar.com/threadsmith](https://vivekmolkar.com/threadsmith)
-
-  [![Threadsmith Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekmolkar&repo=threadsmith&show_owner=true&description_lines_count=2)](https://github.com/vivekmolkar/threadsmith)
   
 ### 🛠️ Skills & Technologies
 
